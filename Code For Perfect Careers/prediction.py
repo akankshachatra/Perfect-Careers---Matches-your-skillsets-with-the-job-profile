@@ -3,7 +3,7 @@
 """
 Created on Wed May 10 14:22:08 2017
 
-@author: Yuvaraj and Akanksha
+@author: Akanksha
 """
 
 import io
