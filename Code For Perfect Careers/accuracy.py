@@ -3,7 +3,7 @@
 """
 Created on Tue May  9 20:46:51 2017
 
-@author: Akanksha
+@author: Yuvaraj and Akanksha
 """
 
 from sklearn.naive_bayes import GaussianNB
